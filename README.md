@@ -4,7 +4,7 @@ NIM : 264107020008
 Kelas : TI - 1B
 
 
-Hasil Uji Studi Kasus 2 oleh <Tunggal Avabsyasi> 
+Hasil Uji Studi Kasus 2 oleh Tunggal Avabsyasi 
 | No | Jenis | Dokumen          | Juara/Dana       | Output                                               | Sesuai? |
 |----|-------|------------------|------------------|------------------------------------------------------|---------|
 | 1  |mandiri|                  |                  |lomba tidak sesuai (tidak ada input dokumen)          | tidak   |
